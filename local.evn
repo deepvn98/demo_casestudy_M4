@@ -1,0 +1,5 @@
+user=root
+password=677264
+url=jdbc:mysql://localhost:3306/web_giasu
+driver=com.mysql.cj.jdbc.Driver
+hibernate=org.hibernate.dialect.MySQL5Dialect
